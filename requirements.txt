@@ -4,4 +4,6 @@ seaborn
 scikit-learn
 # pickle5
 dill
+xgboost
+catboost
 # -e .
